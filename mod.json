@@ -1,0 +1,11 @@
+{
+    "geode": "5.5.3",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "somenedded.send-to-moderators",
+    "name": "Send Button",
+    "version": "v1.0.0",
+    "description": "Adds a Send button to unrated levels to submit them to the GD Discord level request channel.",
+    "developers": ["somenedded"]
+}
